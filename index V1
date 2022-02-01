@@ -5,24 +5,26 @@
         <link rel="stylesheet" type="text/css" href="css/style.css">
     </head>
     <body>
-        <header>
+        <header class="header">
+            <div class="block_element">
+                <img class="logo" src="images/LOGO.png">
                 <nav>
-                    <img class="logo" src="images/LOGO.png">
-                <ul id="headNav">
+                <ul class="mainNav">
                     <li>about</li>
                     <li>skills</li>
                     <li>work</li>
                     <li>contact</li>
                   </ul>
                 </nav>
-                </header>
+            </div>
+        </header>
+
             <section class="heroImg">
                 <div class="content">
-                    <img class="profileImg" src="images/PROFILE.jpg">
+                    <img src="images/PROFILE.jpg">
                     <p> Hi, I'm Keenan. I'm awesome and super cool. You should get to know me!</p>
                     <button>Download Resume</button>
                 </div>
-            </section>
                 <footer>
                     <ul>
                         <li>about</li>
@@ -31,7 +33,11 @@
                         <li>contact</li>
                       </ul>
                 </footer>
-           
+            </section>
+
+            </div>
+    
+    
     
     
     </body>

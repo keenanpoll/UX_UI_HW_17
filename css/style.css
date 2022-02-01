@@ -1,0 +1,63 @@
+
+.logo {
+    width: 50px;
+    height: auto;
+}
+
+nav {
+    width: 100%;
+    height: 50px;
+    padding: 1%;
+    background-color: lightgray;
+}
+
+li {
+    margin: 20px;
+}
+
+#headNav {
+    float: right;
+    margin-right: 50px;
+}
+
+.navList {
+    display: inline-block;
+    padding: 5px;
+}
+
+.profileImg {
+    width: 400px;
+    height: auto;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+}
+
+button {
+}
+
+ul li {
+    display: inline;
+}
+
+.heroImg {
+    height: 600px;
+    padding: 0px;
+}
+
+.content {
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    padding-top: 35px;
+}
+
+footer {
+    background-color: lightgray;
+    height: 50px;
+    padding: 1%;
+}
+
+

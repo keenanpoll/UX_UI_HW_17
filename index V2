@@ -6,9 +6,9 @@
     </head>
     <body>
         <header>
+                <img src="images/LOGO.png">
                 <nav>
-                    <img class="logo" src="images/LOGO.png">
-                <ul id="headNav">
+                <ul>
                     <li>about</li>
                     <li>skills</li>
                     <li>work</li>
@@ -22,7 +22,6 @@
                     <p> Hi, I'm Keenan. I'm awesome and super cool. You should get to know me!</p>
                     <button>Download Resume</button>
                 </div>
-            </section>
                 <footer>
                     <ul>
                         <li>about</li>
@@ -31,7 +30,7 @@
                         <li>contact</li>
                       </ul>
                 </footer>
-           
+            </section>
     
     
     </body>
